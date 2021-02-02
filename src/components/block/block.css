@@ -1,0 +1,14 @@
+.red-block {
+  text-align: left;
+  background-color: red;
+  color: white;
+  width: 40%;
+  height: 30%;
+}
+.blue-block {
+  text-align: left;
+  background-color: blue;
+  color: white;
+  width: 40%;
+  height: 30%;
+}
